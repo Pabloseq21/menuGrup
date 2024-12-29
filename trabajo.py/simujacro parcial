@@ -1,7 +1,0 @@
- ## ejercicio arboles unal 
- 
-arboles = {}
-
-for ramas in arboles: 
-    [hojas]=int(input(f"ingrese la cantidad de hojas deseadas"))
-
